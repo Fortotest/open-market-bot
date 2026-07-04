@@ -1,4 +1,4 @@
-# Open Market Bot 📈
+# Open Market Bot 📈 
 
 Open Market Bot adalah script Cloudflare Worker otomatis yang mengambil data kalender ekonomi real-time dari Investing.com dan mengirimkannya sebagai peringatan (alert) ke channel Discord melalui Webhook. 
 
